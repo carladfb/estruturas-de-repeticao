@@ -1,5 +1,5 @@
 # Estrutura de Repetição
-Conceitos de Estruturas de Repetição em Java, com o auxilio do instrutor Gleyson Sampaio
+Conceitos de Estruturas de Repetição em Java.
 
 https://github.com/glysns
 
@@ -9,3 +9,6 @@ https://github.com/glysns
 - While
 - Do While
 - Break e Continue
+
+### Professor
+Gleyson Sampaio - https://github.com/glysns
